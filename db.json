@@ -2,8 +2,51 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "shirt",
+      "category_id": 5,
+      "description": "description here",
+      "price": 300,
+      "is_availabe": true,
+      "rating": 4,
+      "review": 150,
+      "vendor_  name": "abc shop",
+      "waranty": 1
+    },
+    {
+      "id": 2,
+      "name": "shirt",
+      "category_id": 5,
+      "description": "description here",
+      "price": 300,
+      "is_availabe": true,
+      "rating": 4,
+      "review": 150,
+      "vendor_  name": "abc shop",
+      "waranty": 1
+    },
+    {
+      "id": 3,
+      "name": "shirt",
+      "category_id": 5,
+      "description": "description here",
+      "price": 300,
+      "is_availabe": true,
+      "rating": 4,
+      "review": 150,
+      "vendor_  name": "abc shop",
+      "waranty": 1
+    },
+    {
+      "id": 4,
+      "name": "shirt",
+      "category_id": 5,
+      "description": "description here",
+      "price": 300,
+      "is_availabe": true,
+      "rating": 4,
+      "review": 150,
+      "vendor_  name": "abc shop",
+      "waranty": 1
     }
   ],
   "comments": [
